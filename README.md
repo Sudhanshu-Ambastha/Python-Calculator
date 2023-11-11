@@ -37,6 +37,14 @@ Enter the second integer: 5
 Choose an operation (+, X, /): X
 
 Result: 50
+
+## Try it Online
+You can test the program online using Trinket by following this link.
+https://trinket.io/
+
+## Troubleshooting
+If you encounter any issues or have questions, please don't hesitate to reach out for support.
+
 ## Author
 
 - Sudhanshu Ambastha
