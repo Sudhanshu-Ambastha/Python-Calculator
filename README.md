@@ -46,4 +46,6 @@ https://trinket.io/
 If you encounter any issues or have questions, please don't hesitate to reach out for support.
 
 ## Author
-[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha)
+<a href = "https://github.com/Sudhanshu-Ambastha/Calculator/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Calculator"/>
+</a>
