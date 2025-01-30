@@ -42,6 +42,9 @@ Result: 50
 You can test the program online using Trinket by following this link.
 https://trinket.io/
 
+1. [Calc](https://trinket.io/python/86bd0f34d7?outputOnly=true)
+2. [Chain Calc](https://trinket.io/python/6dd7dd30e7fa?outputOnly=true)
+
 ## Troubleshooting
 If you encounter any issues or have questions, please don't hesitate to reach out for support.
 
